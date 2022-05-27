@@ -12,4 +12,3 @@ data is being processed using json-master repository.
 5) Write : "make" in terminal. <br />
 6) Write : "./run_stocks_api" in terminal.  <br />
 
-~~Enjoy~~ 
